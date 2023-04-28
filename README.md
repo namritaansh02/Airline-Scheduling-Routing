@@ -6,6 +6,9 @@ graph of connected cities, the demand across various cities, fleet of aircrafts 
 ![Input Graph Image](https://github.com/namritaansh02/Airline-Scheduling-Routing/blob/main/input%20graph.png)
 
 ## Output Flight and Passenger Flow from Model 
-![Results Imafge](https://github.com/namritaansh02/Airline-Scheduling-Routing/blob/main/results.jpg)
+![Results Image](https://github.com/namritaansh02/Airline-Scheduling-Routing/blob/main/results.jpg)
 
 # Real Time Flight Handling
+
+## Poster Summary
+![Poster](https://github.com/namritaansh02/Airline-Scheduling-Routing/blob/main/IEOR%20Poster.jpg)
