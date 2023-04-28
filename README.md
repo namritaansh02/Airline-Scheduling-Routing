@@ -1,6 +1,5 @@
 # Airline Scheduling Routing
-We discuss and handle the problem of routing and scheduling airplanes to maximize profit of the company and customer satisfaction. Problem at its core is given 
-graph of connected cities, the demand across various cities, fleet of aircrafts available to a particular airline and distance across these cities. We model this problem as an optimization case study and discuss the results observed over a specific demand. Further moving we would work on robust optimization by using an adverserial element to amplify the robustness of the results observed.
+We discuss and handle the problem of routing and scheduling airplanes to maximize the profit of an airline company as well as customer satisfaction. The problem at its core is as follows: Given a graph of connected cities, the demand across various cities, number of aircrafts available to a particular airline and distance across these cities, we find out the routes the planes should follow and what time they should be dispatched at, in order to achieve our objective. We model this problem as an optimization case study and discuss the results observed over a specific demand. Further work would be on robust optimization by using an adverserial element to amplify the robustness of the results observed.
  
 ## Input Graph to Model
 ![Input Graph Image](https://github.com/namritaansh02/Airline-Scheduling-Routing/blob/main/input%20graph.png)
